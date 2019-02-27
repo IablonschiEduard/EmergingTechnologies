@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/EduardIablonschi-s188800-EmergingTechnologies.unity
+  isLoaded: 1
+  isActive: 1
